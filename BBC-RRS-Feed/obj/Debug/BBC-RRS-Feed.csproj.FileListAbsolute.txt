@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\BBC-RRS-Feed\bin\Debug\BBC-RRS-Feed.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\BBC-RRS-Feed\bin\Debug\BBC-RRS-Feed.exe
+c:\users\daniel\documents\visual studio 2015\Projects\BBC-RRS-Feed\bin\Debug\BBC-RRS-Feed.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\BBC-RRS-Feed\obj\Debug\BBC-RRS-Feed.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\BBC-RRS-Feed\obj\Debug\BBC-RRS-Feed.exe
+c:\users\daniel\documents\visual studio 2015\Projects\BBC-RRS-Feed\obj\Debug\BBC-RRS-Feed.pdb
